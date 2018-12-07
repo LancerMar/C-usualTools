@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usualTools", "usualTools\usualTools.csproj", "{2F5DB10A-FA76-4AF8-9C73-818EF29B3D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5DB10A-FA76-4AF8-9C73-818EF29B3D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5DB10A-FA76-4AF8-9C73-818EF29B3D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5DB10A-FA76-4AF8-9C73-818EF29B3D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5DB10A-FA76-4AF8-9C73-818EF29B3D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C32B55D-9D4B-4142-BE84-E966C41135B3}
+	EndGlobalSection
+EndGlobal
